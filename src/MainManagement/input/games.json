@@ -1,0 +1,4799 @@
+[
+    {
+        "id": 1,
+        "currentPlayerColor": "WHITE",
+        "players": [
+            {
+                "email": "ana@example.com",
+                "color": "WHITE",
+                "name": "Ana"
+            },
+            {
+                "email": "computer",
+                "color": "BLACK",
+                "name": "Computer"
+            }
+        ],
+        "board": [
+            {
+                "type": "R",
+                "color": "WHITE",
+                "position": "A1"
+            },
+            {
+                "type": "N",
+                "color": "WHITE",
+                "position": "B1"
+            },
+            {
+                "type": "B",
+                "color": "WHITE",
+                "position": "C1"
+            },
+            {
+                "type": "Q",
+                "color": "WHITE",
+                "position": "D1"
+            },
+            {
+                "type": "K",
+                "color": "WHITE",
+                "position": "E1"
+            },
+            {
+                "type": "B",
+                "color": "WHITE",
+                "position": "F1"
+            },
+            {
+                "type": "N",
+                "color": "WHITE",
+                "position": "G1"
+            },
+            {
+                "type": "R",
+                "color": "WHITE",
+                "position": "H1"
+            },
+            {
+                "type": "P",
+                "color": "WHITE",
+                "position": "A2"
+            },
+            {
+                "type": "P",
+                "color": "WHITE",
+                "position": "B2"
+            },
+            {
+                "type": "P",
+                "color": "WHITE",
+                "position": "C2"
+            },
+            {
+                "type": "P",
+                "color": "WHITE",
+                "position": "D2"
+            },
+            {
+                "type": "P",
+                "color": "WHITE",
+                "position": "E2"
+            },
+            {
+                "type": "P",
+                "color": "WHITE",
+                "position": "F2"
+            },
+            {
+                "type": "P",
+                "color": "WHITE",
+                "position": "G2"
+            },
+            {
+                "type": "P",
+                "color": "WHITE",
+                "position": "H2"
+            },
+            {
+                "type": "P",
+                "color": "BLACK",
+                "position": "A7"
+            },
+            {
+                "type": "P",
+                "color": "BLACK",
+                "position": "B7"
+            },
+            {
+                "type": "P",
+                "color": "BLACK",
+                "position": "C7"
+            },
+            {
+                "type": "P",
+                "color": "BLACK",
+                "position": "D7"
+            },
+            {
+                "type": "P",
+                "color": "BLACK",
+                "position": "E7"
+            },
+            {
+                "type": "P",
+                "color": "BLACK",
+                "position": "F7"
+            },
+            {
+                "type": "P",
+                "color": "BLACK",
+                "position": "G7"
+            },
+            {
+                "type": "P",
+                "color": "BLACK",
+                "position": "H7"
+            },
+            {
+                "type": "R",
+                "color": "BLACK",
+                "position": "A8"
+            },
+            {
+                "type": "N",
+                "color": "BLACK",
+                "position": "B8"
+            },
+            {
+                "type": "B",
+                "color": "BLACK",
+                "position": "C8"
+            },
+            {
+                "type": "Q",
+                "color": "BLACK",
+                "position": "D8"
+            },
+            {
+                "type": "K",
+                "color": "BLACK",
+                "position": "E8"
+            },
+            {
+                "type": "B",
+                "color": "BLACK",
+                "position": "F8"
+            },
+            {
+                "type": "N",
+                "color": "BLACK",
+                "position": "G8"
+            },
+            {
+                "type": "R",
+                "color": "BLACK",
+                "position": "H8"
+            }
+        ],
+        "moves": [
+            
+        ]
+    },
+    {
+        "id": 2,
+        "currentPlayerColor": "WHITE",
+        "players": [
+            {
+                "email": "computer",
+                "color": "WHITE",
+                "name": "Computer"
+            },
+            {
+                "email": "ana@example.com",
+                "color": "BLACK",
+                "name": "Ana"
+            }
+        ],
+        "board": [
+            {
+                "type": "R",
+                "color": "WHITE",
+                "position": "A1"
+            },
+            {
+                "type": "N",
+                "color": "WHITE",
+                "position": "B1"
+            },
+            {
+                "type": "B",
+                "color": "WHITE",
+                "position": "C1"
+            },
+            {
+                "type": "Q",
+                "color": "WHITE",
+                "position": "D1"
+            },
+            {
+                "type": "K",
+                "color": "WHITE",
+                "position": "E1"
+            },
+            {
+                "type": "R",
+                "color": "WHITE",
+                "position": "H1"
+            },
+            {
+                "type": "P",
+                "color": "WHITE",
+                "position": "A2"
+            },
+            {
+                "type": "P",
+                "color": "WHITE",
+                "position": "B2"
+            },
+            {
+                "type": "P",
+                "color": "WHITE",
+                "position": "C2"
+            },
+            {
+                "type": "P",
+                "color": "WHITE",
+                "position": "D2"
+            },
+            {
+                "type": "P",
+                "color": "WHITE",
+                "position": "F2"
+            },
+            {
+                "type": "P",
+                "color": "WHITE",
+                "position": "G2"
+            },
+            {
+                "type": "P",
+                "color": "WHITE",
+                "position": "H2"
+            },
+            {
+                "type": "N",
+                "color": "WHITE",
+                "position": "F3"
+            },
+            {
+                "type": "B",
+                "color": "WHITE",
+                "position": "C4"
+            },
+            {
+                "type": "P",
+                "color": "WHITE",
+                "position": "E4"
+            },
+            {
+                "type": "P",
+                "color": "BLACK",
+                "position": "E5"
+            },
+            {
+                "type": "N",
+                "color": "BLACK",
+                "position": "C6"
+            },
+            {
+                "type": "N",
+                "color": "BLACK",
+                "position": "F6"
+            },
+            {
+                "type": "P",
+                "color": "BLACK",
+                "position": "A7"
+            },
+            {
+                "type": "P",
+                "color": "BLACK",
+                "position": "B7"
+            },
+            {
+                "type": "P",
+                "color": "BLACK",
+                "position": "C7"
+            },
+            {
+                "type": "P",
+                "color": "BLACK",
+                "position": "D7"
+            },
+            {
+                "type": "P",
+                "color": "BLACK",
+                "position": "F7"
+            },
+            {
+                "type": "P",
+                "color": "BLACK",
+                "position": "G7"
+            },
+            {
+                "type": "P",
+                "color": "BLACK",
+                "position": "H7"
+            },
+            {
+                "type": "R",
+                "color": "BLACK",
+                "position": "A8"
+            },
+            {
+                "type": "B",
+                "color": "BLACK",
+                "position": "C8"
+            },
+            {
+                "type": "Q",
+                "color": "BLACK",
+                "position": "D8"
+            },
+            {
+                "type": "K",
+                "color": "BLACK",
+                "position": "E8"
+            },
+            {
+                "type": "B",
+                "color": "BLACK",
+                "position": "F8"
+            },
+            {
+                "type": "R",
+                "color": "BLACK",
+                "position": "H8"
+            }
+        ],
+        "moves": [
+            {
+                "playerColor": "WHITE",
+                "from": "E2",
+                "to": "E4"
+            },
+            {
+                "playerColor": "BLACK",
+                "from": "E7",
+                "to": "E5"
+            },
+            {
+                "playerColor": "WHITE",
+                "from": "G1",
+                "to": "F3"
+            },
+            {
+                "playerColor": "BLACK",
+                "from": "B8",
+                "to": "C6"
+            },
+            {
+                "playerColor": "WHITE",
+                "from": "F1",
+                "to": "C4"
+            },
+            {
+                "playerColor": "BLACK",
+                "from": "G8",
+                "to": "F6"
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "currentPlayerColor": "BLACK",
+        "players": [
+            {
+                "email": "mihai@example.com",
+                "color": "WHITE",
+                "name": "Mihai"
+            },
+            {
+                "email": "computer",
+                "color": "BLACK",
+                "name": "Computer"
+            }
+        ],
+        "board": [
+            {
+                "type": "R",
+                "color": "WHITE",
+                "position": "A1"
+            },
+            {
+                "type": "N",
+                "color": "WHITE",
+                "position": "B1"
+            },
+            {
+                "type": "B",
+                "color": "WHITE",
+                "position": "C1"
+            },
+            {
+                "type": "Q",
+                "color": "WHITE",
+                "position": "D1"
+            },
+            {
+                "type": "K",
+                "color": "WHITE",
+                "position": "E1"
+            },
+            {
+                "type": "B",
+                "color": "WHITE",
+                "position": "F1"
+            },
+            {
+                "type": "R",
+                "color": "WHITE",
+                "position": "H1"
+            },
+            {
+                "type": "P",
+                "color": "WHITE",
+                "position": "A2"
+            },
+            {
+                "type": "P",
+                "color": "WHITE",
+                "position": "B2"
+            },
+            {
+                "type": "P",
+                "color": "WHITE",
+                "position": "C2"
+            },
+            {
+                "type": "P",
+                "color": "WHITE",
+                "position": "D2"
+            },
+            {
+                "type": "P",
+                "color": "WHITE",
+                "position": "F2"
+            },
+            {
+                "type": "P",
+                "color": "WHITE",
+                "position": "G2"
+            },
+            {
+                "type": "P",
+                "color": "WHITE",
+                "position": "H2"
+            },
+            {
+                "type": "P",
+                "color": "WHITE",
+                "position": "E4"
+            },
+            {
+                "type": "N",
+                "color": "WHITE",
+                "position": "E5"
+            },
+            {
+                "type": "N",
+                "color": "BLACK",
+                "position": "C6"
+            },
+            {
+                "type": "P",
+                "color": "BLACK",
+                "position": "A7"
+            },
+            {
+                "type": "P",
+                "color": "BLACK",
+                "position": "B7"
+            },
+            {
+                "type": "P",
+                "color": "BLACK",
+                "position": "C7"
+            },
+            {
+                "type": "P",
+                "color": "BLACK",
+                "position": "D7"
+            },
+            {
+                "type": "P",
+                "color": "BLACK",
+                "position": "F7"
+            },
+            {
+                "type": "P",
+                "color": "BLACK",
+                "position": "G7"
+            },
+            {
+                "type": "P",
+                "color": "BLACK",
+                "position": "H7"
+            },
+            {
+                "type": "R",
+                "color": "BLACK",
+                "position": "A8"
+            },
+            {
+                "type": "B",
+                "color": "BLACK",
+                "position": "C8"
+            },
+            {
+                "type": "Q",
+                "color": "BLACK",
+                "position": "D8"
+            },
+            {
+                "type": "K",
+                "color": "BLACK",
+                "position": "E8"
+            },
+            {
+                "type": "B",
+                "color": "BLACK",
+                "position": "F8"
+            },
+            {
+                "type": "N",
+                "color": "BLACK",
+                "position": "G8"
+            },
+            {
+                "type": "R",
+                "color": "BLACK",
+                "position": "H8"
+            }
+        ],
+        "moves": [
+            {
+                "playerColor": "WHITE",
+                "from": "E2",
+                "to": "E4"
+            },
+            {
+                "playerColor": "BLACK",
+                "from": "E7",
+                "to": "E5"
+            },
+            {
+                "playerColor": "WHITE",
+                "from": "G1",
+                "to": "F3"
+            },
+            {
+                "playerColor": "BLACK",
+                "from": "B8",
+                "to": "C6"
+            },
+            {
+                "playerColor": "WHITE",
+                "from": "F3",
+                "to": "E5"
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "currentPlayerColor": "BLACK",
+        "players": [
+            {
+                "email": "mihai@example.com",
+                "color": "WHITE",
+                "name": "Mihai"
+            },
+            {
+                "email": "computer",
+                "color": "BLACK",
+                "name": "Computer"
+            }
+        ],
+        "board": [
+            {
+                "type": "R",
+                "color": "WHITE",
+                "position": "A1"
+            },
+            {
+                "type": "N",
+                "color": "WHITE",
+                "position": "B1"
+            },
+            {
+                "type": "B",
+                "color": "WHITE",
+                "position": "C1"
+            },
+            {
+                "type": "Q",
+                "color": "WHITE",
+                "position": "D1"
+            },
+            {
+                "type": "K",
+                "color": "WHITE",
+                "position": "E1"
+            },
+            {
+                "type": "R",
+                "color": "WHITE",
+                "position": "H1"
+            },
+            {
+                "type": "P",
+                "color": "WHITE",
+                "position": "A2"
+            },
+            {
+                "type": "P",
+                "color": "WHITE",
+                "position": "B2"
+            },
+            {
+                "type": "P",
+                "color": "WHITE",
+                "position": "C2"
+            },
+            {
+                "type": "P",
+                "color": "WHITE",
+                "position": "D2"
+            },
+            {
+                "type": "P",
+                "color": "WHITE",
+                "position": "F2"
+            },
+            {
+                "type": "P",
+                "color": "WHITE",
+                "position": "G2"
+            },
+            {
+                "type": "P",
+                "color": "WHITE",
+                "position": "H2"
+            },
+            {
+                "type": "N",
+                "color": "WHITE",
+                "position": "F3"
+            },
+            {
+                "type": "B",
+                "color": "WHITE",
+                "position": "C4"
+            },
+            {
+                "type": "P",
+                "color": "WHITE",
+                "position": "E4"
+            },
+            {
+                "type": "P",
+                "color": "BLACK",
+                "position": "E5"
+            },
+            {
+                "type": "N",
+                "color": "BLACK",
+                "position": "C6"
+            },
+            {
+                "type": "N",
+                "color": "BLACK",
+                "position": "F6"
+            },
+            {
+                "type": "P",
+                "color": "BLACK",
+                "position": "A7"
+            },
+            {
+                "type": "P",
+                "color": "BLACK",
+                "position": "B7"
+            },
+            {
+                "type": "P",
+                "color": "BLACK",
+                "position": "C7"
+            },
+            {
+                "type": "P",
+                "color": "BLACK",
+                "position": "D7"
+            },
+            {
+                "type": "P",
+                "color": "BLACK",
+                "position": "F7"
+            },
+            {
+                "type": "P",
+                "color": "BLACK",
+                "position": "G7"
+            },
+            {
+                "type": "P",
+                "color": "BLACK",
+                "position": "H7"
+            },
+            {
+                "type": "R",
+                "color": "BLACK",
+                "position": "A8"
+            },
+            {
+                "type": "B",
+                "color": "BLACK",
+                "position": "C8"
+            },
+            {
+                "type": "Q",
+                "color": "BLACK",
+                "position": "D8"
+            },
+            {
+                "type": "K",
+                "color": "BLACK",
+                "position": "E8"
+            },
+            {
+                "type": "B",
+                "color": "BLACK",
+                "position": "F8"
+            },
+            {
+                "type": "R",
+                "color": "BLACK",
+                "position": "H8"
+            }
+        ],
+        "moves": [
+            {
+                "playerColor": "WHITE",
+                "from": "E2",
+                "to": "E4"
+            },
+            {
+                "playerColor": "BLACK",
+                "from": "E7",
+                "to": "E5"
+            },
+            {
+                "playerColor": "WHITE",
+                "from": "G1",
+                "to": "F3"
+            },
+            {
+                "playerColor": "BLACK",
+                "from": "B8",
+                "to": "C6"
+            },
+            {
+                "playerColor": "WHITE",
+                "from": "F1",
+                "to": "C4"
+            },
+            {
+                "playerColor": "BLACK",
+                "from": "G8",
+                "to": "F6"
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "currentPlayerColor": "WHITE",
+        "players": [
+            {
+                "email": "ioana@example.com",
+                "color": "WHITE",
+                "name": "Ioana"
+            },
+            {
+                "email": "computer",
+                "color": "BLACK",
+                "name": "Computer"
+            }
+        ],
+        "board": [
+            {
+                "type": "R",
+                "color": "WHITE",
+                "position": "A1"
+            },
+            {
+                "type": "N",
+                "color": "WHITE",
+                "position": "B1"
+            },
+            {
+                "type": "B",
+                "color": "WHITE",
+                "position": "C1"
+            },
+            {
+                "type": "Q",
+                "color": "WHITE",
+                "position": "D1"
+            },
+            {
+                "type": "K",
+                "color": "WHITE",
+                "position": "E1"
+            },
+            {
+                "type": "B",
+                "color": "WHITE",
+                "position": "F1"
+            },
+            {
+                "type": "N",
+                "color": "WHITE",
+                "position": "G1"
+            },
+            {
+                "type": "R",
+                "color": "WHITE",
+                "position": "H1"
+            },
+            {
+                "type": "P",
+                "color": "WHITE",
+                "position": "A2"
+            },
+            {
+                "type": "P",
+                "color": "WHITE",
+                "position": "B2"
+            },
+            {
+                "type": "P",
+                "color": "WHITE",
+                "position": "C2"
+            },
+            {
+                "type": "P",
+                "color": "WHITE",
+                "position": "D2"
+            },
+            {
+                "type": "P",
+                "color": "WHITE",
+                "position": "E2"
+            },
+            {
+                "type": "P",
+                "color": "WHITE",
+                "position": "F2"
+            },
+            {
+                "type": "P",
+                "color": "WHITE",
+                "position": "G2"
+            },
+            {
+                "type": "P",
+                "color": "WHITE",
+                "position": "H2"
+            },
+            {
+                "type": "P",
+                "color": "BLACK",
+                "position": "A7"
+            },
+            {
+                "type": "P",
+                "color": "BLACK",
+                "position": "B7"
+            },
+            {
+                "type": "P",
+                "color": "BLACK",
+                "position": "C7"
+            },
+            {
+                "type": "P",
+                "color": "BLACK",
+                "position": "D7"
+            },
+            {
+                "type": "P",
+                "color": "BLACK",
+                "position": "E7"
+            },
+            {
+                "type": "P",
+                "color": "BLACK",
+                "position": "F7"
+            },
+            {
+                "type": "P",
+                "color": "BLACK",
+                "position": "G7"
+            },
+            {
+                "type": "P",
+                "color": "BLACK",
+                "position": "H7"
+            },
+            {
+                "type": "R",
+                "color": "BLACK",
+                "position": "A8"
+            },
+            {
+                "type": "N",
+                "color": "BLACK",
+                "position": "B8"
+            },
+            {
+                "type": "B",
+                "color": "BLACK",
+                "position": "C8"
+            },
+            {
+                "type": "Q",
+                "color": "BLACK",
+                "position": "D8"
+            },
+            {
+                "type": "K",
+                "color": "BLACK",
+                "position": "E8"
+            },
+            {
+                "type": "B",
+                "color": "BLACK",
+                "position": "F8"
+            },
+            {
+                "type": "N",
+                "color": "BLACK",
+                "position": "G8"
+            },
+            {
+                "type": "R",
+                "color": "BLACK",
+                "position": "H8"
+            }
+        ],
+        "moves": [
+            
+        ]
+    },
+    {
+        "id": 6,
+        "currentPlayerColor": "BLACK",
+        "players": [
+            {
+                "email": "george@example.com",
+                "color": "WHITE",
+                "name": "George"
+            },
+            {
+                "email": "computer",
+                "color": "BLACK",
+                "name": "Computer"
+            }
+        ],
+        "board": [
+            {
+                "type": "R",
+                "color": "WHITE",
+                "position": "A1"
+            },
+            {
+                "type": "N",
+                "color": "WHITE",
+                "position": "B1"
+            },
+            {
+                "type": "B",
+                "color": "WHITE",
+                "position": "C1"
+            },
+            {
+                "type": "Q",
+                "color": "WHITE",
+                "position": "D1"
+            },
+            {
+                "type": "K",
+                "color": "WHITE",
+                "position": "E1"
+            },
+            {
+                "type": "B",
+                "color": "WHITE",
+                "position": "F1"
+            },
+            {
+                "type": "R",
+                "color": "WHITE",
+                "position": "H1"
+            },
+            {
+                "type": "P",
+                "color": "WHITE",
+                "position": "A2"
+            },
+            {
+                "type": "P",
+                "color": "WHITE",
+                "position": "B2"
+            },
+            {
+                "type": "P",
+                "color": "WHITE",
+                "position": "C2"
+            },
+            {
+                "type": "P",
+                "color": "WHITE",
+                "position": "D2"
+            },
+            {
+                "type": "P",
+                "color": "WHITE",
+                "position": "F2"
+            },
+            {
+                "type": "P",
+                "color": "WHITE",
+                "position": "G2"
+            },
+            {
+                "type": "P",
+                "color": "WHITE",
+                "position": "H2"
+            },
+            {
+                "type": "P",
+                "color": "WHITE",
+                "position": "E4"
+            },
+            {
+                "type": "N",
+                "color": "WHITE",
+                "position": "E5"
+            },
+            {
+                "type": "N",
+                "color": "BLACK",
+                "position": "C6"
+            },
+            {
+                "type": "P",
+                "color": "BLACK",
+                "position": "A7"
+            },
+            {
+                "type": "P",
+                "color": "BLACK",
+                "position": "B7"
+            },
+            {
+                "type": "P",
+                "color": "BLACK",
+                "position": "C7"
+            },
+            {
+                "type": "P",
+                "color": "BLACK",
+                "position": "D7"
+            },
+            {
+                "type": "P",
+                "color": "BLACK",
+                "position": "F7"
+            },
+            {
+                "type": "P",
+                "color": "BLACK",
+                "position": "G7"
+            },
+            {
+                "type": "P",
+                "color": "BLACK",
+                "position": "H7"
+            },
+            {
+                "type": "R",
+                "color": "BLACK",
+                "position": "A8"
+            },
+            {
+                "type": "B",
+                "color": "BLACK",
+                "position": "C8"
+            },
+            {
+                "type": "Q",
+                "color": "BLACK",
+                "position": "D8"
+            },
+            {
+                "type": "K",
+                "color": "BLACK",
+                "position": "E8"
+            },
+            {
+                "type": "B",
+                "color": "BLACK",
+                "position": "F8"
+            },
+            {
+                "type": "N",
+                "color": "BLACK",
+                "position": "G8"
+            },
+            {
+                "type": "R",
+                "color": "BLACK",
+                "position": "H8"
+            }
+        ],
+        "moves": [
+            {
+                "playerColor": "WHITE",
+                "from": "E2",
+                "to": "E4"
+            },
+            {
+                "playerColor": "BLACK",
+                "from": "E7",
+                "to": "E5"
+            },
+            {
+                "playerColor": "WHITE",
+                "from": "G1",
+                "to": "F3"
+            },
+            {
+                "playerColor": "BLACK",
+                "from": "B8",
+                "to": "C6"
+            },
+            {
+                "playerColor": "WHITE",
+                "from": "F3",
+                "to": "E5"
+            }
+        ]
+    },
+    {
+        "id": 7,
+        "currentPlayerColor": "WHITE",
+        "players": [
+            {
+                "email": "andrei@example.com",
+                "color": "WHITE",
+                "name": "Andrei"
+            },
+            {
+                "email": "computer",
+                "color": "BLACK",
+                "name": "Computer"
+            }
+        ],
+        "board": [
+            {
+                "type": "R",
+                "color": "WHITE",
+                "position": "A1"
+            },
+            {
+                "type": "N",
+                "color": "WHITE",
+                "position": "B1"
+            },
+            {
+                "type": "B",
+                "color": "WHITE",
+                "position": "C1"
+            },
+            {
+                "type": "Q",
+                "color": "WHITE",
+                "position": "D1"
+            },
+            {
+                "type": "K",
+                "color": "WHITE",
+                "position": "E1"
+            },
+            {
+                "type": "R",
+                "color": "WHITE",
+                "position": "H1"
+            },
+            {
+                "type": "P",
+                "color": "WHITE",
+                "position": "A2"
+            },
+            {
+                "type": "P",
+                "color": "WHITE",
+                "position": "B2"
+            },
+            {
+                "type": "P",
+                "color": "WHITE",
+                "position": "C2"
+            },
+            {
+                "type": "P",
+                "color": "WHITE",
+                "position": "D2"
+            },
+            {
+                "type": "P",
+                "color": "WHITE",
+                "position": "F2"
+            },
+            {
+                "type": "P",
+                "color": "WHITE",
+                "position": "G2"
+            },
+            {
+                "type": "P",
+                "color": "WHITE",
+                "position": "H2"
+            },
+            {
+                "type": "N",
+                "color": "WHITE",
+                "position": "F3"
+            },
+            {
+                "type": "B",
+                "color": "WHITE",
+                "position": "C4"
+            },
+            {
+                "type": "P",
+                "color": "WHITE",
+                "position": "E4"
+            },
+            {
+                "type": "P",
+                "color": "BLACK",
+                "position": "E5"
+            },
+            {
+                "type": "N",
+                "color": "BLACK",
+                "position": "C6"
+            },
+            {
+                "type": "N",
+                "color": "BLACK",
+                "position": "F6"
+            },
+            {
+                "type": "P",
+                "color": "BLACK",
+                "position": "A7"
+            },
+            {
+                "type": "P",
+                "color": "BLACK",
+                "position": "B7"
+            },
+            {
+                "type": "P",
+                "color": "BLACK",
+                "position": "C7"
+            },
+            {
+                "type": "P",
+                "color": "BLACK",
+                "position": "D7"
+            },
+            {
+                "type": "P",
+                "color": "BLACK",
+                "position": "F7"
+            },
+            {
+                "type": "P",
+                "color": "BLACK",
+                "position": "G7"
+            },
+            {
+                "type": "P",
+                "color": "BLACK",
+                "position": "H7"
+            },
+            {
+                "type": "R",
+                "color": "BLACK",
+                "position": "A8"
+            },
+            {
+                "type": "B",
+                "color": "BLACK",
+                "position": "C8"
+            },
+            {
+                "type": "Q",
+                "color": "BLACK",
+                "position": "D8"
+            },
+            {
+                "type": "K",
+                "color": "BLACK",
+                "position": "E8"
+            },
+            {
+                "type": "B",
+                "color": "BLACK",
+                "position": "F8"
+            },
+            {
+                "type": "R",
+                "color": "BLACK",
+                "position": "H8"
+            }
+        ],
+        "moves": [
+            {
+                "playerColor": "WHITE",
+                "from": "E2",
+                "to": "E4"
+            },
+            {
+                "playerColor": "BLACK",
+                "from": "E7",
+                "to": "E5"
+            },
+            {
+                "playerColor": "WHITE",
+                "from": "G1",
+                "to": "F3"
+            },
+            {
+                "playerColor": "BLACK",
+                "from": "B8",
+                "to": "C6"
+            },
+            {
+                "playerColor": "WHITE",
+                "from": "F1",
+                "to": "C4"
+            },
+            {
+                "playerColor": "BLACK",
+                "from": "G8",
+                "to": "F6"
+            }
+        ]
+    },
+    {
+        "id": 8,
+        "currentPlayerColor": "BLACK",
+        "players": [
+            {
+                "email": "andrei@example.com",
+                "color": "BLACK",
+                "name": "Andrei"
+            },
+            {
+                "email": "computer",
+                "color": "WHITE",
+                "name": "Computer"
+            }
+        ],
+        "board": [
+            {
+                "type": "R",
+                "color": "WHITE",
+                "position": "A1"
+            },
+            {
+                "type": "N",
+                "color": "WHITE",
+                "position": "B1"
+            },
+            {
+                "type": "B",
+                "color": "WHITE",
+                "position": "C1"
+            },
+            {
+                "type": "Q",
+                "color": "WHITE",
+                "position": "D1"
+            },
+            {
+                "type": "K",
+                "color": "WHITE",
+                "position": "E1"
+            },
+            {
+                "type": "B",
+                "color": "WHITE",
+                "position": "F1"
+            },
+            {
+                "type": "R",
+                "color": "WHITE",
+                "position": "H1"
+            },
+            {
+                "type": "P",
+                "color": "WHITE",
+                "position": "A2"
+            },
+            {
+                "type": "P",
+                "color": "WHITE",
+                "position": "B2"
+            },
+            {
+                "type": "P",
+                "color": "WHITE",
+                "position": "C2"
+            },
+            {
+                "type": "P",
+                "color": "WHITE",
+                "position": "D2"
+            },
+            {
+                "type": "P",
+                "color": "WHITE",
+                "position": "F2"
+            },
+            {
+                "type": "P",
+                "color": "WHITE",
+                "position": "G2"
+            },
+            {
+                "type": "P",
+                "color": "WHITE",
+                "position": "H2"
+            },
+            {
+                "type": "P",
+                "color": "WHITE",
+                "position": "E4"
+            },
+            {
+                "type": "N",
+                "color": "WHITE",
+                "position": "E5"
+            },
+            {
+                "type": "N",
+                "color": "BLACK",
+                "position": "C6"
+            },
+            {
+                "type": "P",
+                "color": "BLACK",
+                "position": "A7"
+            },
+            {
+                "type": "P",
+                "color": "BLACK",
+                "position": "B7"
+            },
+            {
+                "type": "P",
+                "color": "BLACK",
+                "position": "C7"
+            },
+            {
+                "type": "P",
+                "color": "BLACK",
+                "position": "D7"
+            },
+            {
+                "type": "P",
+                "color": "BLACK",
+                "position": "F7"
+            },
+            {
+                "type": "P",
+                "color": "BLACK",
+                "position": "G7"
+            },
+            {
+                "type": "P",
+                "color": "BLACK",
+                "position": "H7"
+            },
+            {
+                "type": "R",
+                "color": "BLACK",
+                "position": "A8"
+            },
+            {
+                "type": "B",
+                "color": "BLACK",
+                "position": "C8"
+            },
+            {
+                "type": "Q",
+                "color": "BLACK",
+                "position": "D8"
+            },
+            {
+                "type": "K",
+                "color": "BLACK",
+                "position": "E8"
+            },
+            {
+                "type": "B",
+                "color": "BLACK",
+                "position": "F8"
+            },
+            {
+                "type": "N",
+                "color": "BLACK",
+                "position": "G8"
+            },
+            {
+                "type": "R",
+                "color": "BLACK",
+                "position": "H8"
+            }
+        ],
+        "moves": [
+            {
+                "playerColor": "WHITE",
+                "from": "E2",
+                "to": "E4"
+            },
+            {
+                "playerColor": "BLACK",
+                "from": "E7",
+                "to": "E5"
+            },
+            {
+                "playerColor": "WHITE",
+                "from": "G1",
+                "to": "F3"
+            },
+            {
+                "playerColor": "BLACK",
+                "from": "B8",
+                "to": "C6"
+            },
+            {
+                "playerColor": "WHITE",
+                "from": "F3",
+                "to": "E5"
+            }
+        ]
+    },
+    {
+        "id": 9,
+        "currentPlayerColor": "WHITE",
+        "players": [
+            {
+                "email": "elena@example.com",
+                "color": "WHITE",
+                "name": "Elena"
+            },
+            {
+                "email": "computer",
+                "color": "BLACK",
+                "name": "Computer"
+            }
+        ],
+        "board": [
+            {
+                "type": "R",
+                "color": "WHITE",
+                "position": "A1"
+            },
+            {
+                "type": "N",
+                "color": "WHITE",
+                "position": "B1"
+            },
+            {
+                "type": "B",
+                "color": "WHITE",
+                "position": "C1"
+            },
+            {
+                "type": "Q",
+                "color": "WHITE",
+                "position": "D1"
+            },
+            {
+                "type": "K",
+                "color": "WHITE",
+                "position": "E1"
+            },
+            {
+                "type": "B",
+                "color": "WHITE",
+                "position": "F1"
+            },
+            {
+                "type": "N",
+                "color": "WHITE",
+                "position": "G1"
+            },
+            {
+                "type": "R",
+                "color": "WHITE",
+                "position": "H1"
+            },
+            {
+                "type": "P",
+                "color": "WHITE",
+                "position": "A2"
+            },
+            {
+                "type": "P",
+                "color": "WHITE",
+                "position": "B2"
+            },
+            {
+                "type": "P",
+                "color": "WHITE",
+                "position": "C2"
+            },
+            {
+                "type": "P",
+                "color": "WHITE",
+                "position": "D2"
+            },
+            {
+                "type": "P",
+                "color": "WHITE",
+                "position": "E2"
+            },
+            {
+                "type": "P",
+                "color": "WHITE",
+                "position": "F2"
+            },
+            {
+                "type": "P",
+                "color": "WHITE",
+                "position": "G2"
+            },
+            {
+                "type": "P",
+                "color": "WHITE",
+                "position": "H2"
+            },
+            {
+                "type": "P",
+                "color": "BLACK",
+                "position": "A7"
+            },
+            {
+                "type": "P",
+                "color": "BLACK",
+                "position": "B7"
+            },
+            {
+                "type": "P",
+                "color": "BLACK",
+                "position": "C7"
+            },
+            {
+                "type": "P",
+                "color": "BLACK",
+                "position": "D7"
+            },
+            {
+                "type": "P",
+                "color": "BLACK",
+                "position": "E7"
+            },
+            {
+                "type": "P",
+                "color": "BLACK",
+                "position": "F7"
+            },
+            {
+                "type": "P",
+                "color": "BLACK",
+                "position": "G7"
+            },
+            {
+                "type": "P",
+                "color": "BLACK",
+                "position": "H7"
+            },
+            {
+                "type": "R",
+                "color": "BLACK",
+                "position": "A8"
+            },
+            {
+                "type": "N",
+                "color": "BLACK",
+                "position": "B8"
+            },
+            {
+                "type": "B",
+                "color": "BLACK",
+                "position": "C8"
+            },
+            {
+                "type": "Q",
+                "color": "BLACK",
+                "position": "D8"
+            },
+            {
+                "type": "K",
+                "color": "BLACK",
+                "position": "E8"
+            },
+            {
+                "type": "B",
+                "color": "BLACK",
+                "position": "F8"
+            },
+            {
+                "type": "N",
+                "color": "BLACK",
+                "position": "G8"
+            },
+            {
+                "type": "R",
+                "color": "BLACK",
+                "position": "H8"
+            }
+        ],
+        "moves": [
+            
+        ]
+    },
+    {
+        "id": 10,
+        "currentPlayerColor": "BLACK",
+        "players": [
+            {
+                "email": "roxana@example.com",
+                "color": "WHITE",
+                "name": "Roxana"
+            },
+            {
+                "email": "computer",
+                "color": "BLACK",
+                "name": "Computer"
+            }
+        ],
+        "board": [
+            {
+                "type": "R",
+                "color": "WHITE",
+                "position": "A1"
+            },
+            {
+                "type": "N",
+                "color": "WHITE",
+                "position": "B1"
+            },
+            {
+                "type": "B",
+                "color": "WHITE",
+                "position": "C1"
+            },
+            {
+                "type": "Q",
+                "color": "WHITE",
+                "position": "D1"
+            },
+            {
+                "type": "K",
+                "color": "WHITE",
+                "position": "E1"
+            },
+            {
+                "type": "R",
+                "color": "WHITE",
+                "position": "H1"
+            },
+            {
+                "type": "P",
+                "color": "WHITE",
+                "position": "A2"
+            },
+            {
+                "type": "P",
+                "color": "WHITE",
+                "position": "B2"
+            },
+            {
+                "type": "P",
+                "color": "WHITE",
+                "position": "C2"
+            },
+            {
+                "type": "P",
+                "color": "WHITE",
+                "position": "D2"
+            },
+            {
+                "type": "P",
+                "color": "WHITE",
+                "position": "F2"
+            },
+            {
+                "type": "P",
+                "color": "WHITE",
+                "position": "G2"
+            },
+            {
+                "type": "P",
+                "color": "WHITE",
+                "position": "H2"
+            },
+            {
+                "type": "N",
+                "color": "WHITE",
+                "position": "F3"
+            },
+            {
+                "type": "B",
+                "color": "WHITE",
+                "position": "C4"
+            },
+            {
+                "type": "P",
+                "color": "WHITE",
+                "position": "E4"
+            },
+            {
+                "type": "P",
+                "color": "BLACK",
+                "position": "E5"
+            },
+            {
+                "type": "N",
+                "color": "BLACK",
+                "position": "C6"
+            },
+            {
+                "type": "N",
+                "color": "BLACK",
+                "position": "F6"
+            },
+            {
+                "type": "P",
+                "color": "BLACK",
+                "position": "A7"
+            },
+            {
+                "type": "P",
+                "color": "BLACK",
+                "position": "B7"
+            },
+            {
+                "type": "P",
+                "color": "BLACK",
+                "position": "C7"
+            },
+            {
+                "type": "P",
+                "color": "BLACK",
+                "position": "D7"
+            },
+            {
+                "type": "P",
+                "color": "BLACK",
+                "position": "F7"
+            },
+            {
+                "type": "P",
+                "color": "BLACK",
+                "position": "G7"
+            },
+            {
+                "type": "P",
+                "color": "BLACK",
+                "position": "H7"
+            },
+            {
+                "type": "R",
+                "color": "BLACK",
+                "position": "A8"
+            },
+            {
+                "type": "B",
+                "color": "BLACK",
+                "position": "C8"
+            },
+            {
+                "type": "Q",
+                "color": "BLACK",
+                "position": "D8"
+            },
+            {
+                "type": "K",
+                "color": "BLACK",
+                "position": "E8"
+            },
+            {
+                "type": "B",
+                "color": "BLACK",
+                "position": "F8"
+            },
+            {
+                "type": "R",
+                "color": "BLACK",
+                "position": "H8"
+            }
+        ],
+        "moves": [
+            {
+                "playerColor": "WHITE",
+                "from": "E2",
+                "to": "E4"
+            },
+            {
+                "playerColor": "BLACK",
+                "from": "E7",
+                "to": "E5"
+            },
+            {
+                "playerColor": "WHITE",
+                "from": "G1",
+                "to": "F3"
+            },
+            {
+                "playerColor": "BLACK",
+                "from": "B8",
+                "to": "C6"
+            },
+            {
+                "playerColor": "WHITE",
+                "from": "F1",
+                "to": "C4"
+            },
+            {
+                "playerColor": "BLACK",
+                "from": "G8",
+                "to": "F6"
+            }
+        ]
+    },
+    {
+        "id": 11,
+        "currentPlayerColor": "WHITE",
+        "players": [
+            {
+                "email": "roxana@example.com",
+                "color": "BLACK",
+                "name": "Roxana"
+            },
+            {
+                "email": "computer",
+                "color": "WHITE",
+                "name": "Computer"
+            }
+        ],
+        "board": [
+            {
+                "type": "R",
+                "color": "WHITE",
+                "position": "A1"
+            },
+            {
+                "type": "N",
+                "color": "WHITE",
+                "position": "B1"
+            },
+            {
+                "type": "B",
+                "color": "WHITE",
+                "position": "C1"
+            },
+            {
+                "type": "Q",
+                "color": "WHITE",
+                "position": "D1"
+            },
+            {
+                "type": "K",
+                "color": "WHITE",
+                "position": "E1"
+            },
+            {
+                "type": "B",
+                "color": "WHITE",
+                "position": "F1"
+            },
+            {
+                "type": "R",
+                "color": "WHITE",
+                "position": "H1"
+            },
+            {
+                "type": "P",
+                "color": "WHITE",
+                "position": "A2"
+            },
+            {
+                "type": "P",
+                "color": "WHITE",
+                "position": "B2"
+            },
+            {
+                "type": "P",
+                "color": "WHITE",
+                "position": "C2"
+            },
+            {
+                "type": "P",
+                "color": "WHITE",
+                "position": "D2"
+            },
+            {
+                "type": "P",
+                "color": "WHITE",
+                "position": "F2"
+            },
+            {
+                "type": "P",
+                "color": "WHITE",
+                "position": "G2"
+            },
+            {
+                "type": "P",
+                "color": "WHITE",
+                "position": "H2"
+            },
+            {
+                "type": "P",
+                "color": "WHITE",
+                "position": "E4"
+            },
+            {
+                "type": "N",
+                "color": "WHITE",
+                "position": "E5"
+            },
+            {
+                "type": "N",
+                "color": "BLACK",
+                "position": "C6"
+            },
+            {
+                "type": "P",
+                "color": "BLACK",
+                "position": "A7"
+            },
+            {
+                "type": "P",
+                "color": "BLACK",
+                "position": "B7"
+            },
+            {
+                "type": "P",
+                "color": "BLACK",
+                "position": "C7"
+            },
+            {
+                "type": "P",
+                "color": "BLACK",
+                "position": "D7"
+            },
+            {
+                "type": "P",
+                "color": "BLACK",
+                "position": "F7"
+            },
+            {
+                "type": "P",
+                "color": "BLACK",
+                "position": "G7"
+            },
+            {
+                "type": "P",
+                "color": "BLACK",
+                "position": "H7"
+            },
+            {
+                "type": "R",
+                "color": "BLACK",
+                "position": "A8"
+            },
+            {
+                "type": "B",
+                "color": "BLACK",
+                "position": "C8"
+            },
+            {
+                "type": "Q",
+                "color": "BLACK",
+                "position": "D8"
+            },
+            {
+                "type": "K",
+                "color": "BLACK",
+                "position": "E8"
+            },
+            {
+                "type": "B",
+                "color": "BLACK",
+                "position": "F8"
+            },
+            {
+                "type": "N",
+                "color": "BLACK",
+                "position": "G8"
+            },
+            {
+                "type": "R",
+                "color": "BLACK",
+                "position": "H8"
+            }
+        ],
+        "moves": [
+            {
+                "playerColor": "WHITE",
+                "from": "E2",
+                "to": "E4"
+            },
+            {
+                "playerColor": "BLACK",
+                "from": "E7",
+                "to": "E5"
+            },
+            {
+                "playerColor": "WHITE",
+                "from": "G1",
+                "to": "F3"
+            },
+            {
+                "playerColor": "BLACK",
+                "from": "B8",
+                "to": "C6"
+            },
+            {
+                "playerColor": "WHITE",
+                "from": "F3",
+                "to": "E5"
+            }
+        ]
+    },
+    {
+        "id": 12,
+        "currentPlayerColor": "BLACK",
+        "players": [
+            {
+                "email": "vlad@example.com",
+                "color": "WHITE",
+                "name": "Vlad"
+            },
+            {
+                "email": "computer",
+                "color": "BLACK",
+                "name": "Computer"
+            }
+        ],
+        "board": [
+            {
+                "type": "R",
+                "color": "WHITE",
+                "position": "A1"
+            },
+            {
+                "type": "N",
+                "color": "WHITE",
+                "position": "B1"
+            },
+            {
+                "type": "B",
+                "color": "WHITE",
+                "position": "C1"
+            },
+            {
+                "type": "Q",
+                "color": "WHITE",
+                "position": "D1"
+            },
+            {
+                "type": "K",
+                "color": "WHITE",
+                "position": "E1"
+            },
+            {
+                "type": "B",
+                "color": "WHITE",
+                "position": "F1"
+            },
+            {
+                "type": "N",
+                "color": "WHITE",
+                "position": "G1"
+            },
+            {
+                "type": "R",
+                "color": "WHITE",
+                "position": "H1"
+            },
+            {
+                "type": "P",
+                "color": "WHITE",
+                "position": "A2"
+            },
+            {
+                "type": "P",
+                "color": "WHITE",
+                "position": "B2"
+            },
+            {
+                "type": "P",
+                "color": "WHITE",
+                "position": "C2"
+            },
+            {
+                "type": "P",
+                "color": "WHITE",
+                "position": "D2"
+            },
+            {
+                "type": "P",
+                "color": "WHITE",
+                "position": "E2"
+            },
+            {
+                "type": "P",
+                "color": "WHITE",
+                "position": "F2"
+            },
+            {
+                "type": "P",
+                "color": "WHITE",
+                "position": "G2"
+            },
+            {
+                "type": "P",
+                "color": "WHITE",
+                "position": "H2"
+            },
+            {
+                "type": "P",
+                "color": "BLACK",
+                "position": "A7"
+            },
+            {
+                "type": "P",
+                "color": "BLACK",
+                "position": "B7"
+            },
+            {
+                "type": "P",
+                "color": "BLACK",
+                "position": "C7"
+            },
+            {
+                "type": "P",
+                "color": "BLACK",
+                "position": "D7"
+            },
+            {
+                "type": "P",
+                "color": "BLACK",
+                "position": "E7"
+            },
+            {
+                "type": "P",
+                "color": "BLACK",
+                "position": "F7"
+            },
+            {
+                "type": "P",
+                "color": "BLACK",
+                "position": "G7"
+            },
+            {
+                "type": "P",
+                "color": "BLACK",
+                "position": "H7"
+            },
+            {
+                "type": "R",
+                "color": "BLACK",
+                "position": "A8"
+            },
+            {
+                "type": "N",
+                "color": "BLACK",
+                "position": "B8"
+            },
+            {
+                "type": "B",
+                "color": "BLACK",
+                "position": "C8"
+            },
+            {
+                "type": "Q",
+                "color": "BLACK",
+                "position": "D8"
+            },
+            {
+                "type": "K",
+                "color": "BLACK",
+                "position": "E8"
+            },
+            {
+                "type": "B",
+                "color": "BLACK",
+                "position": "F8"
+            },
+            {
+                "type": "N",
+                "color": "BLACK",
+                "position": "G8"
+            },
+            {
+                "type": "R",
+                "color": "BLACK",
+                "position": "H8"
+            }
+        ],
+        "moves": [
+            
+        ]
+    },
+    {
+        "id": 14,
+        "currentPlayerColor": "WHITE",
+        "players": [
+            {
+                "email": "cata@gmail.com",
+                "color": "WHITE",
+                "name": "cat"
+            },
+            {
+                "email": "computer",
+                "color": "BLACK",
+                "name": "computer"
+            }
+        ],
+        "board": [
+            {
+                "type": "R",
+                "color": "WHITE",
+                "position": "A1"
+            },
+            {
+                "type": "N",
+                "color": "WHITE",
+                "position": "B1"
+            },
+            {
+                "type": "B",
+                "color": "WHITE",
+                "position": "C1"
+            },
+            {
+                "type": "K",
+                "color": "WHITE",
+                "position": "E1"
+            },
+            {
+                "type": "R",
+                "color": "WHITE",
+                "position": "H1"
+            },
+            {
+                "type": "P",
+                "color": "WHITE",
+                "position": "A2"
+            },
+            {
+                "type": "P",
+                "color": "WHITE",
+                "position": "B2"
+            },
+            {
+                "type": "P",
+                "color": "WHITE",
+                "position": "C2"
+            },
+            {
+                "type": "P",
+                "color": "WHITE",
+                "position": "D2"
+            },
+            {
+                "type": "P",
+                "color": "WHITE",
+                "position": "F2"
+            },
+            {
+                "type": "P",
+                "color": "WHITE",
+                "position": "G2"
+            },
+            {
+                "type": "P",
+                "color": "WHITE",
+                "position": "H2"
+            },
+            {
+                "type": "P",
+                "color": "BLACK",
+                "position": "B5"
+            },
+            {
+                "type": "P",
+                "color": "BLACK",
+                "position": "D5"
+            },
+            {
+                "type": "K",
+                "color": "BLACK",
+                "position": "E6"
+            },
+            {
+                "type": "P",
+                "color": "BLACK",
+                "position": "F6"
+            },
+            {
+                "type": "P",
+                "color": "BLACK",
+                "position": "A7"
+            },
+            {
+                "type": "P",
+                "color": "BLACK",
+                "position": "C7"
+            },
+            {
+                "type": "R",
+                "color": "BLACK",
+                "position": "C8"
+            }
+        ],
+        "moves": [
+            {
+                "playerColor": "WHITE",
+                "from": "E2",
+                "to": "E4"
+            },
+            {
+                "playerColor": "BLACK",
+                "from": "B8",
+                "to": "A6"
+            },
+            {
+                "playerColor": "WHITE",
+                "from": "D1",
+                "to": "G4"
+            },
+            {
+                "playerColor": "BLACK",
+                "from": "G8",
+                "to": "H6"
+            },
+            {
+                "playerColor": "WHITE",
+                "from": "G4",
+                "to": "G7",
+                "captured": {
+                    "type": "P",
+                    "color": "BLACK"
+                }
+            },
+            {
+                "playerColor": "BLACK",
+                "from": "A8",
+                "to": "B8"
+            },
+            {
+                "playerColor": "WHITE",
+                "from": "G7",
+                "to": "H8",
+                "captured": {
+                    "type": "R",
+                    "color": "BLACK"
+                }
+            },
+            {
+                "playerColor": "BLACK",
+                "from": "B8",
+                "to": "A8"
+            },
+            {
+                "playerColor": "WHITE",
+                "from": "H8",
+                "to": "H7",
+                "captured": {
+                    "type": "P",
+                    "color": "BLACK"
+                }
+            },
+            {
+                "playerColor": "BLACK",
+                "from": "H6",
+                "to": "G8"
+            },
+            {
+                "playerColor": "WHITE",
+                "from": "H7",
+                "to": "G8",
+                "captured": {
+                    "type": "N",
+                    "color": "BLACK"
+                }
+            },
+            {
+                "playerColor": "BLACK",
+                "from": "D7",
+                "to": "D6"
+            },
+            {
+                "playerColor": "WHITE",
+                "from": "E4",
+                "to": "E5"
+            },
+            {
+                "playerColor": "BLACK",
+                "from": "C8",
+                "to": "E6"
+            },
+            {
+                "playerColor": "WHITE",
+                "from": "F1",
+                "to": "C4"
+            },
+            {
+                "playerColor": "BLACK",
+                "from": "D8",
+                "to": "D7"
+            },
+            {
+                "playerColor": "WHITE",
+                "from": "C4",
+                "to": "A6",
+                "captured": {
+                    "type": "N",
+                    "color": "BLACK"
+                }
+            },
+            {
+                "playerColor": "BLACK",
+                "from": "F7",
+                "to": "F6"
+            },
+            {
+                "playerColor": "WHITE",
+                "from": "G1",
+                "to": "F3"
+            },
+            {
+                "playerColor": "BLACK",
+                "from": "B7",
+                "to": "B5"
+            },
+            {
+                "playerColor": "WHITE",
+                "from": "F3",
+                "to": "G5"
+            },
+            {
+                "playerColor": "BLACK",
+                "from": "D7",
+                "to": "D8"
+            },
+            {
+                "playerColor": "WHITE",
+                "from": "G8",
+                "to": "F7"
+            },
+            {
+                "playerColor": "BLACK",
+                "from": "E8",
+                "to": "D7"
+            },
+            {
+                "playerColor": "WHITE",
+                "from": "F7",
+                "to": "F8",
+                "captured": {
+                    "type": "B",
+                    "color": "BLACK"
+                }
+            },
+            {
+                "playerColor": "BLACK",
+                "from": "D6",
+                "to": "D5"
+            },
+            {
+                "playerColor": "WHITE",
+                "from": "A6",
+                "to": "C8"
+            },
+            {
+                "playerColor": "BLACK",
+                "from": "D8",
+                "to": "C8",
+                "captured": {
+                    "type": "B",
+                    "color": "WHITE"
+                }
+            },
+            {
+                "playerColor": "WHITE",
+                "from": "E5",
+                "to": "F6",
+                "captured": {
+                    "type": "P",
+                    "color": "BLACK"
+                }
+            },
+            {
+                "playerColor": "BLACK",
+                "from": "E7",
+                "to": "F6",
+                "captured": {
+                    "type": "P",
+                    "color": "WHITE"
+                }
+            },
+            {
+                "playerColor": "WHITE",
+                "from": "G5",
+                "to": "E6",
+                "captured": {
+                    "type": "B",
+                    "color": "BLACK"
+                }
+            },
+            {
+                "playerColor": "BLACK",
+                "from": "D7",
+                "to": "E6",
+                "captured": {
+                    "type": "N",
+                    "color": "WHITE"
+                }
+            },
+            {
+                "playerColor": "WHITE",
+                "from": "F8",
+                "to": "C8",
+                "captured": {
+                    "type": "Q",
+                    "color": "BLACK"
+                }
+            },
+            {
+                "playerColor": "BLACK",
+                "from": "A8",
+                "to": "C8",
+                "captured": {
+                    "type": "Q",
+                    "color": "WHITE"
+                }
+            }
+        ]
+    },
+    {
+        "id": 15,
+        "currentPlayerColor": "BLACK",
+        "players": [
+            {
+                "email": "computer",
+                "color": "WHITE",
+                "name": "computer"
+            },
+            {
+                "email": "cata@gmail.com",
+                "color": "BLACK",
+                "name": "atac"
+            }
+        ],
+        "board": [
+            {
+                "type": "B",
+                "color": "BLACK",
+                "position": "H1"
+            },
+            {
+                "type": "K",
+                "color": "WHITE",
+                "position": "A2"
+            },
+            {
+                "type": "N",
+                "color": "BLACK",
+                "position": "F3"
+            },
+            {
+                "type": "P",
+                "color": "WHITE",
+                "position": "A5"
+            },
+            {
+                "type": "P",
+                "color": "BLACK",
+                "position": "D5"
+            },
+            {
+                "type": "P",
+                "color": "WHITE",
+                "position": "G5"
+            },
+            {
+                "type": "P",
+                "color": "BLACK",
+                "position": "C6"
+            },
+            {
+                "type": "P",
+                "color": "BLACK",
+                "position": "A7"
+            },
+            {
+                "type": "P",
+                "color": "BLACK",
+                "position": "B7"
+            },
+            {
+                "type": "P",
+                "color": "BLACK",
+                "position": "F7"
+            },
+            {
+                "type": "P",
+                "color": "BLACK",
+                "position": "G7"
+            },
+            {
+                "type": "P",
+                "color": "BLACK",
+                "position": "H7"
+            },
+            {
+                "type": "R",
+                "color": "BLACK",
+                "position": "A8"
+            },
+            {
+                "type": "N",
+                "color": "BLACK",
+                "position": "B8"
+            },
+            {
+                "type": "K",
+                "color": "BLACK",
+                "position": "E8"
+            },
+            {
+                "type": "B",
+                "color": "BLACK",
+                "position": "F8"
+            },
+            {
+                "type": "N",
+                "color": "BLACK",
+                "position": "G8"
+            },
+            {
+                "type": "R",
+                "color": "BLACK",
+                "position": "H8"
+            }
+        ],
+        "moves": [
+            {
+                "playerColor": "WHITE",
+                "from": "G1",
+                "to": "F3"
+            },
+            {
+                "playerColor": "BLACK",
+                "from": "D7",
+                "to": "D5"
+            },
+            {
+                "playerColor": "WHITE",
+                "from": "C2",
+                "to": "C3"
+            },
+            {
+                "playerColor": "BLACK",
+                "from": "C8",
+                "to": "G4"
+            },
+            {
+                "playerColor": "WHITE",
+                "from": "H1",
+                "to": "G1"
+            },
+            {
+                "playerColor": "BLACK",
+                "from": "G4",
+                "to": "F3",
+                "captured": {
+                    "type": "N",
+                    "color": "WHITE"
+                }
+            },
+            {
+                "playerColor": "WHITE",
+                "from": "G1",
+                "to": "H1"
+            },
+            {
+                "playerColor": "BLACK",
+                "from": "F3",
+                "to": "G2",
+                "captured": {
+                    "type": "P",
+                    "color": "WHITE"
+                }
+            },
+            {
+                "playerColor": "WHITE",
+                "from": "F2",
+                "to": "F3"
+            },
+            {
+                "playerColor": "BLACK",
+                "from": "G2",
+                "to": "H1",
+                "captured": {
+                    "type": "R",
+                    "color": "WHITE"
+                }
+            },
+            {
+                "playerColor": "WHITE",
+                "from": "D1",
+                "to": "B3"
+            },
+            {
+                "playerColor": "BLACK",
+                "from": "E7",
+                "to": "E5"
+            },
+            {
+                "playerColor": "WHITE",
+                "from": "C3",
+                "to": "C4"
+            },
+            {
+                "playerColor": "BLACK",
+                "from": "D8",
+                "to": "G5"
+            },
+            {
+                "playerColor": "WHITE",
+                "from": "B3",
+                "to": "A4"
+            },
+            {
+                "playerColor": "BLACK",
+                "from": "C7",
+                "to": "C6"
+            },
+            {
+                "playerColor": "WHITE",
+                "from": "A2",
+                "to": "A3"
+            },
+            {
+                "playerColor": "BLACK",
+                "from": "E5",
+                "to": "E4"
+            },
+            {
+                "playerColor": "WHITE",
+                "from": "D2",
+                "to": "D4"
+            },
+            {
+                "playerColor": "BLACK",
+                "from": "E4",
+                "to": "F3",
+                "captured": {
+                    "type": "P",
+                    "color": "WHITE"
+                }
+            },
+            {
+                "playerColor": "WHITE",
+                "from": "C4",
+                "to": "C5"
+            },
+            {
+                "playerColor": "BLACK",
+                "from": "F3",
+                "to": "E2",
+                "captured": {
+                    "type": "P",
+                    "color": "WHITE"
+                }
+            },
+            {
+                "playerColor": "WHITE",
+                "from": "B1",
+                "to": "C3"
+            },
+            {
+                "playerColor": "BLACK",
+                "from": "E2",
+                "to": "F1",
+                "captured": {
+                    "type": "B",
+                    "color": "WHITE"
+                }
+            },
+            {
+                "playerColor": "WHITE",
+                "from": "C1",
+                "to": "E3"
+            },
+            {
+                "playerColor": "BLACK",
+                "from": "F1",
+                "to": "E3",
+                "captured": {
+                    "type": "B",
+                    "color": "WHITE"
+                }
+            },
+            {
+                "playerColor": "WHITE",
+                "from": "A1",
+                "to": "A2"
+            },
+            {
+                "playerColor": "BLACK",
+                "from": "E3",
+                "to": "G2"
+            },
+            {
+                "playerColor": "WHITE",
+                "from": "E1",
+                "to": "E2"
+            },
+            {
+                "playerColor": "BLACK",
+                "from": "G2",
+                "to": "F4"
+            },
+            {
+                "playerColor": "WHITE",
+                "from": "E2",
+                "to": "D2"
+            },
+            {
+                "playerColor": "BLACK",
+                "from": "F4",
+                "to": "E6"
+            },
+            {
+                "playerColor": "WHITE",
+                "from": "D2",
+                "to": "D1"
+            },
+            {
+                "playerColor": "BLACK",
+                "from": "E6",
+                "to": "F4"
+            },
+            {
+                "playerColor": "WHITE",
+                "from": "D1",
+                "to": "C1"
+            },
+            {
+                "playerColor": "BLACK",
+                "from": "F4",
+                "to": "E2"
+            },
+            {
+                "playerColor": "WHITE",
+                "from": "C1",
+                "to": "B1"
+            },
+            {
+                "playerColor": "BLACK",
+                "from": "E2",
+                "to": "C3",
+                "captured": {
+                    "type": "N",
+                    "color": "WHITE"
+                }
+            },
+            {
+                "playerColor": "WHITE",
+                "from": "B1",
+                "to": "A1"
+            },
+            {
+                "playerColor": "BLACK",
+                "from": "C3",
+                "to": "A4",
+                "captured": {
+                    "type": "Q",
+                    "color": "WHITE"
+                }
+            },
+            {
+                "playerColor": "WHITE",
+                "from": "B2",
+                "to": "B3"
+            },
+            {
+                "playerColor": "BLACK",
+                "from": "A4",
+                "to": "C5",
+                "captured": {
+                    "type": "P",
+                    "color": "WHITE"
+                }
+            },
+            {
+                "playerColor": "WHITE",
+                "from": "H2",
+                "to": "H4"
+            },
+            {
+                "playerColor": "BLACK",
+                "from": "C5",
+                "to": "B3",
+                "captured": {
+                    "type": "P",
+                    "color": "WHITE"
+                }
+            },
+            {
+                "playerColor": "WHITE",
+                "from": "A1",
+                "to": "B1"
+            },
+            {
+                "playerColor": "BLACK",
+                "from": "B3",
+                "to": "D4",
+                "captured": {
+                    "type": "P",
+                    "color": "WHITE"
+                }
+            },
+            {
+                "playerColor": "WHITE",
+                "from": "A2",
+                "to": "C2"
+            },
+            {
+                "playerColor": "BLACK",
+                "from": "D4",
+                "to": "C2",
+                "captured": {
+                    "type": "R",
+                    "color": "WHITE"
+                }
+            },
+            {
+                "playerColor": "WHITE",
+                "from": "A3",
+                "to": "A4"
+            },
+            {
+                "playerColor": "BLACK",
+                "from": "C2",
+                "to": "E3"
+            },
+            {
+                "playerColor": "WHITE",
+                "from": "B1",
+                "to": "C1"
+            },
+            {
+                "playerColor": "BLACK",
+                "from": "E3",
+                "to": "F5"
+            },
+            {
+                "playerColor": "WHITE",
+                "from": "C1",
+                "to": "B2"
+            },
+            {
+                "playerColor": "BLACK",
+                "from": "F5",
+                "to": "E3"
+            },
+            {
+                "playerColor": "WHITE",
+                "from": "B2",
+                "to": "A2"
+            },
+            {
+                "playerColor": "BLACK",
+                "from": "E3",
+                "to": "C2"
+            },
+            {
+                "playerColor": "WHITE",
+                "from": "H4",
+                "to": "G5",
+                "captured": {
+                    "type": "Q",
+                    "color": "BLACK"
+                }
+            },
+            {
+                "playerColor": "BLACK",
+                "from": "C2",
+                "to": "B4"
+            },
+            {
+                "playerColor": "WHITE",
+                "from": "A2",
+                "to": "B1"
+            },
+            {
+                "playerColor": "BLACK",
+                "from": "B4",
+                "to": "D3"
+            },
+            {
+                "playerColor": "WHITE",
+                "from": "B1",
+                "to": "A2"
+            },
+            {
+                "playerColor": "BLACK",
+                "from": "D3",
+                "to": "C1"
+            },
+            {
+                "playerColor": "WHITE",
+                "from": "A2",
+                "to": "A1"
+            },
+            {
+                "playerColor": "BLACK",
+                "from": "C1",
+                "to": "B3"
+            },
+            {
+                "playerColor": "WHITE",
+                "from": "A1",
+                "to": "B1"
+            },
+            {
+                "playerColor": "BLACK",
+                "from": "B3",
+                "to": "D2"
+            },
+            {
+                "playerColor": "WHITE",
+                "from": "B1",
+                "to": "C1"
+            },
+            {
+                "playerColor": "BLACK",
+                "from": "D2",
+                "to": "F3"
+            },
+            {
+                "playerColor": "WHITE",
+                "from": "C1",
+                "to": "B1"
+            },
+            {
+                "playerColor": "BLACK",
+                "from": "F3",
+                "to": "E1"
+            },
+            {
+                "playerColor": "WHITE",
+                "from": "B1",
+                "to": "A2"
+            },
+            {
+                "playerColor": "BLACK",
+                "from": "E1",
+                "to": "F3"
+            },
+            {
+                "playerColor": "WHITE",
+                "from": "A4",
+                "to": "A5"
+            }
+        ]
+    },
+    {
+        "id": 16,
+        "currentPlayerColor": "BLACK",
+        "players": [
+            {
+                "email": "computer",
+                "color": "WHITE",
+                "name": "computer"
+            },
+            {
+                "email": "c@g.com",
+                "color": "BLACK",
+                "name": "c"
+            }
+        ],
+        "board": [
+            {
+                "type": "R",
+                "color": "WHITE",
+                "position": "A1"
+            },
+            {
+                "type": "N",
+                "color": "WHITE",
+                "position": "B1"
+            },
+            {
+                "type": "K",
+                "color": "WHITE",
+                "position": "F1"
+            },
+            {
+                "type": "B",
+                "color": "WHITE",
+                "position": "D2"
+            },
+            {
+                "type": "Q",
+                "color": "WHITE",
+                "position": "E2"
+            },
+            {
+                "type": "P",
+                "color": "WHITE",
+                "position": "B3"
+            },
+            {
+                "type": "P",
+                "color": "BLACK",
+                "position": "C3"
+            },
+            {
+                "type": "P",
+                "color": "WHITE",
+                "position": "G3"
+            },
+            {
+                "type": "N",
+                "color": "WHITE",
+                "position": "H3"
+            },
+            {
+                "type": "P",
+                "color": "BLACK",
+                "position": "F4"
+            },
+            {
+                "type": "P",
+                "color": "WHITE",
+                "position": "A5"
+            },
+            {
+                "type": "P",
+                "color": "BLACK",
+                "position": "A7"
+            },
+            {
+                "type": "P",
+                "color": "BLACK",
+                "position": "B7"
+            },
+            {
+                "type": "P",
+                "color": "BLACK",
+                "position": "C7"
+            },
+            {
+                "type": "P",
+                "color": "BLACK",
+                "position": "F7"
+            },
+            {
+                "type": "P",
+                "color": "BLACK",
+                "position": "G7"
+            },
+            {
+                "type": "P",
+                "color": "BLACK",
+                "position": "H7"
+            },
+            {
+                "type": "R",
+                "color": "BLACK",
+                "position": "A8"
+            },
+            {
+                "type": "N",
+                "color": "BLACK",
+                "position": "B8"
+            },
+            {
+                "type": "B",
+                "color": "BLACK",
+                "position": "C8"
+            },
+            {
+                "type": "K",
+                "color": "BLACK",
+                "position": "E8"
+            },
+            {
+                "type": "N",
+                "color": "BLACK",
+                "position": "G8"
+            },
+            {
+                "type": "R",
+                "color": "BLACK",
+                "position": "H8"
+            }
+        ],
+        "moves": [
+            {
+                "playerColor": "WHITE",
+                "from": "A2",
+                "to": "A3"
+            },
+            {
+                "playerColor": "BLACK",
+                "from": "E7",
+                "to": "E5"
+            },
+            {
+                "playerColor": "WHITE",
+                "from": "F2",
+                "to": "F3"
+            },
+            {
+                "playerColor": "BLACK",
+                "from": "D8",
+                "to": "H4"
+            },
+            {
+                "playerColor": "WHITE",
+                "from": "G2",
+                "to": "G3"
+            },
+            {
+                "playerColor": "BLACK",
+                "from": "H4",
+                "to": "H2",
+                "captured": {
+                    "type": "P",
+                    "color": "WHITE"
+                }
+            },
+            {
+                "playerColor": "WHITE",
+                "from": "C2",
+                "to": "C3"
+            },
+            {
+                "playerColor": "BLACK",
+                "from": "H2",
+                "to": "H1",
+                "captured": {
+                    "type": "R",
+                    "color": "WHITE"
+                }
+            },
+            {
+                "playerColor": "WHITE",
+                "from": "G1",
+                "to": "H3"
+            },
+            {
+                "playerColor": "BLACK",
+                "from": "D7",
+                "to": "D5"
+            },
+            {
+                "playerColor": "WHITE",
+                "from": "E2",
+                "to": "E3"
+            },
+            {
+                "playerColor": "BLACK",
+                "from": "F8",
+                "to": "C5"
+            },
+            {
+                "playerColor": "WHITE",
+                "from": "F3",
+                "to": "F4"
+            },
+            {
+                "playerColor": "BLACK",
+                "from": "C5",
+                "to": "E3",
+                "captured": {
+                    "type": "P",
+                    "color": "WHITE"
+                }
+            },
+            {
+                "playerColor": "WHITE",
+                "from": "A3",
+                "to": "A4"
+            },
+            {
+                "playerColor": "BLACK",
+                "from": "E3",
+                "to": "D2",
+                "captured": {
+                    "type": "P",
+                    "color": "WHITE"
+                }
+            },
+            {
+                "playerColor": "WHITE",
+                "from": "C1",
+                "to": "D2",
+                "captured": {
+                    "type": "B",
+                    "color": "BLACK"
+                }
+            },
+            {
+                "playerColor": "BLACK",
+                "from": "H1",
+                "to": "F1",
+                "captured": {
+                    "type": "B",
+                    "color": "WHITE"
+                }
+            },
+            {
+                "playerColor": "WHITE",
+                "from": "E1",
+                "to": "F1",
+                "captured": {
+                    "type": "Q",
+                    "color": "BLACK"
+                }
+            },
+            {
+                "playerColor": "BLACK",
+                "from": "E5",
+                "to": "F4",
+                "captured": {
+                    "type": "P",
+                    "color": "WHITE"
+                }
+            },
+            {
+                "playerColor": "WHITE",
+                "from": "B2",
+                "to": "B3"
+            },
+            {
+                "playerColor": "BLACK",
+                "from": "D5",
+                "to": "D4"
+            },
+            {
+                "playerColor": "WHITE",
+                "from": "A4",
+                "to": "A5"
+            },
+            {
+                "playerColor": "BLACK",
+                "from": "D4",
+                "to": "C3",
+                "captured": {
+                    "type": "P",
+                    "color": "WHITE"
+                }
+            },
+            {
+                "playerColor": "WHITE",
+                "from": "D1",
+                "to": "E2"
+            }
+        ]
+    },
+    {
+        "id": 19,
+        "currentPlayerColor": "WHITE",
+        "players": [
+            {
+                "email": "c@g.com",
+                "color": "WHITE",
+                "name": "cg"
+            },
+            {
+                "email": "computer",
+                "color": "BLACK",
+                "name": "computer"
+            }
+        ],
+        "board": [
+            {
+                "type": "R",
+                "color": "WHITE",
+                "position": "A1"
+            },
+            {
+                "type": "N",
+                "color": "WHITE",
+                "position": "B1"
+            },
+            {
+                "type": "N",
+                "color": "WHITE",
+                "position": "G1"
+            },
+            {
+                "type": "R",
+                "color": "WHITE",
+                "position": "H1"
+            },
+            {
+                "type": "P",
+                "color": "WHITE",
+                "position": "A2"
+            },
+            {
+                "type": "P",
+                "color": "WHITE",
+                "position": "B2"
+            },
+            {
+                "type": "P",
+                "color": "WHITE",
+                "position": "C2"
+            },
+            {
+                "type": "K",
+                "color": "WHITE",
+                "position": "D2"
+            },
+            {
+                "type": "P",
+                "color": "WHITE",
+                "position": "F2"
+            },
+            {
+                "type": "P",
+                "color": "WHITE",
+                "position": "G2"
+            },
+            {
+                "type": "P",
+                "color": "WHITE",
+                "position": "H2"
+            },
+            {
+                "type": "B",
+                "color": "WHITE",
+                "position": "C4"
+            },
+            {
+                "type": "P",
+                "color": "WHITE",
+                "position": "E4"
+            },
+            {
+                "type": "B",
+                "color": "WHITE",
+                "position": "H4"
+            },
+            {
+                "type": "P",
+                "color": "BLACK",
+                "position": "H5"
+            },
+            {
+                "type": "Q",
+                "color": "WHITE",
+                "position": "G6"
+            },
+            {
+                "type": "P",
+                "color": "BLACK",
+                "position": "A7"
+            },
+            {
+                "type": "P",
+                "color": "BLACK",
+                "position": "B7"
+            },
+            {
+                "type": "P",
+                "color": "BLACK",
+                "position": "D7"
+            },
+            {
+                "type": "R",
+                "color": "BLACK",
+                "position": "F7"
+            },
+            {
+                "type": "R",
+                "color": "BLACK",
+                "position": "A8"
+            },
+            {
+                "type": "N",
+                "color": "BLACK",
+                "position": "B8"
+            },
+            {
+                "type": "B",
+                "color": "BLACK",
+                "position": "C8"
+            },
+            {
+                "type": "K",
+                "color": "BLACK",
+                "position": "E8"
+            },
+            {
+                "type": "B",
+                "color": "BLACK",
+                "position": "F8"
+            },
+            {
+                "type": "N",
+                "color": "BLACK",
+                "position": "G8"
+            }
+        ],
+        "moves": [
+            {
+                "playerColor": "WHITE",
+                "from": "E2",
+                "to": "E4"
+            },
+            {
+                "playerColor": "BLACK",
+                "from": "F7",
+                "to": "F5"
+            },
+            {
+                "playerColor": "WHITE",
+                "from": "D1",
+                "to": "F3"
+            },
+            {
+                "playerColor": "BLACK",
+                "from": "G7",
+                "to": "G5"
+            },
+            {
+                "playerColor": "WHITE",
+                "from": "F3",
+                "to": "F5",
+                "captured": {
+                    "type": "P",
+                    "color": "BLACK"
+                }
+            },
+            {
+                "playerColor": "BLACK",
+                "from": "C7",
+                "to": "C6"
+            },
+            {
+                "playerColor": "WHITE",
+                "from": "F1",
+                "to": "C4"
+            },
+            {
+                "playerColor": "BLACK",
+                "from": "C6",
+                "to": "C5"
+            },
+            {
+                "playerColor": "WHITE",
+                "from": "D2",
+                "to": "D4"
+            },
+            {
+                "playerColor": "BLACK",
+                "from": "C5",
+                "to": "D4",
+                "captured": {
+                    "type": "P",
+                    "color": "WHITE"
+                }
+            },
+            {
+                "playerColor": "WHITE",
+                "from": "C1",
+                "to": "G5",
+                "captured": {
+                    "type": "P",
+                    "color": "BLACK"
+                }
+            },
+            {
+                "playerColor": "BLACK",
+                "from": "H7",
+                "to": "H6"
+            },
+            {
+                "playerColor": "WHITE",
+                "from": "G5",
+                "to": "E7",
+                "captured": {
+                    "type": "P",
+                    "color": "BLACK"
+                }
+            },
+            {
+                "playerColor": "BLACK",
+                "from": "D4",
+                "to": "D3"
+            },
+            {
+                "playerColor": "WHITE",
+                "from": "E7",
+                "to": "D8",
+                "captured": {
+                    "type": "Q",
+                    "color": "BLACK"
+                }
+            },
+            {
+                "playerColor": "BLACK",
+                "from": "H6",
+                "to": "H5"
+            },
+            {
+                "playerColor": "WHITE",
+                "from": "D8",
+                "to": "H4"
+            },
+            {
+                "playerColor": "BLACK",
+                "from": "D3",
+                "to": "D2"
+            },
+            {
+                "playerColor": "WHITE",
+                "from": "E1",
+                "to": "D2",
+                "captured": {
+                    "type": "P",
+                    "color": "BLACK"
+                }
+            },
+            {
+                "playerColor": "BLACK",
+                "from": "H8",
+                "to": "H7"
+            },
+            {
+                "playerColor": "WHITE",
+                "from": "F5",
+                "to": "G6"
+            },
+            {
+                "playerColor": "BLACK",
+                "from": "H7",
+                "to": "F7"
+            }
+        ]
+    },
+    {
+        "id": 20,
+        "currentPlayerColor": "BLACK",
+        "players": [
+            {
+                "email": "computer",
+                "color": "WHITE",
+                "name": "computer"
+            },
+            {
+                "email": "c@g.com",
+                "color": "BLACK",
+                "name": "cccc"
+            }
+        ],
+        "board": [
+            {
+                "type": "R",
+                "color": "WHITE",
+                "position": "A1"
+            },
+            {
+                "type": "Q",
+                "color": "BLACK",
+                "position": "D1"
+            },
+            {
+                "type": "B",
+                "color": "WHITE",
+                "position": "F1"
+            },
+            {
+                "type": "R",
+                "color": "WHITE",
+                "position": "H1"
+            },
+            {
+                "type": "K",
+                "color": "WHITE",
+                "position": "F2"
+            },
+            {
+                "type": "P",
+                "color": "WHITE",
+                "position": "H2"
+            },
+            {
+                "type": "N",
+                "color": "WHITE",
+                "position": "B3"
+            },
+            {
+                "type": "P",
+                "color": "WHITE",
+                "position": "G3"
+            },
+            {
+                "type": "P",
+                "color": "WHITE",
+                "position": "A4"
+            },
+            {
+                "type": "P",
+                "color": "BLACK",
+                "position": "E4"
+            },
+            {
+                "type": "P",
+                "color": "WHITE",
+                "position": "F4"
+            },
+            {
+                "type": "B",
+                "color": "BLACK",
+                "position": "G4"
+            },
+            {
+                "type": "P",
+                "color": "BLACK",
+                "position": "A5"
+            },
+            {
+                "type": "P",
+                "color": "WHITE",
+                "position": "C5"
+            },
+            {
+                "type": "P",
+                "color": "BLACK",
+                "position": "B6"
+            },
+            {
+                "type": "P",
+                "color": "BLACK",
+                "position": "F6"
+            },
+            {
+                "type": "N",
+                "color": "BLACK",
+                "position": "E7"
+            },
+            {
+                "type": "P",
+                "color": "BLACK",
+                "position": "H7"
+            },
+            {
+                "type": "R",
+                "color": "BLACK",
+                "position": "A8"
+            },
+            {
+                "type": "N",
+                "color": "BLACK",
+                "position": "B8"
+            },
+            {
+                "type": "K",
+                "color": "BLACK",
+                "position": "E8"
+            },
+            {
+                "type": "B",
+                "color": "BLACK",
+                "position": "F8"
+            },
+            {
+                "type": "R",
+                "color": "BLACK",
+                "position": "H8"
+            }
+        ],
+        "moves": [
+            {
+                "playerColor": "WHITE",
+                "from": "A2",
+                "to": "A4"
+            },
+            {
+                "playerColor": "BLACK",
+                "from": "A7",
+                "to": "A5"
+            },
+            {
+                "playerColor": "WHITE",
+                "from": "C2",
+                "to": "C4"
+            },
+            {
+                "playerColor": "BLACK",
+                "from": "C7",
+                "to": "C5"
+            },
+            {
+                "playerColor": "WHITE",
+                "from": "E2",
+                "to": "E4"
+            },
+            {
+                "playerColor": "BLACK",
+                "from": "E7",
+                "to": "E5"
+            },
+            {
+                "playerColor": "WHITE",
+                "from": "D2",
+                "to": "D4"
+            },
+            {
+                "playerColor": "BLACK",
+                "from": "D7",
+                "to": "D5"
+            },
+            {
+                "playerColor": "WHITE",
+                "from": "B2",
+                "to": "B3"
+            },
+            {
+                "playerColor": "BLACK",
+                "from": "B7",
+                "to": "B6"
+            },
+            {
+                "playerColor": "WHITE",
+                "from": "C1",
+                "to": "B2"
+            },
+            {
+                "playerColor": "BLACK",
+                "from": "C8",
+                "to": "B7"
+            },
+            {
+                "playerColor": "WHITE",
+                "from": "G1",
+                "to": "E2"
+            },
+            {
+                "playerColor": "BLACK",
+                "from": "G8",
+                "to": "E7"
+            },
+            {
+                "playerColor": "WHITE",
+                "from": "E4",
+                "to": "D5",
+                "captured": {
+                    "type": "P",
+                    "color": "BLACK"
+                }
+            },
+            {
+                "playerColor": "BLACK",
+                "from": "C5",
+                "to": "D4",
+                "captured": {
+                    "type": "P",
+                    "color": "WHITE"
+                }
+            },
+            {
+                "playerColor": "WHITE",
+                "from": "C4",
+                "to": "C5"
+            },
+            {
+                "playerColor": "BLACK",
+                "from": "E5",
+                "to": "E4"
+            },
+            {
+                "playerColor": "WHITE",
+                "from": "B2",
+                "to": "D4",
+                "captured": {
+                    "type": "P",
+                    "color": "BLACK"
+                }
+            },
+            {
+                "playerColor": "BLACK",
+                "from": "B7",
+                "to": "D5",
+                "captured": {
+                    "type": "P",
+                    "color": "WHITE"
+                }
+            },
+            {
+                "playerColor": "WHITE",
+                "from": "F2",
+                "to": "F4"
+            },
+            {
+                "playerColor": "BLACK",
+                "from": "F7",
+                "to": "F5"
+            },
+            {
+                "playerColor": "WHITE",
+                "from": "E2",
+                "to": "C1"
+            },
+            {
+                "playerColor": "BLACK",
+                "from": "D5",
+                "to": "B3",
+                "captured": {
+                    "type": "P",
+                    "color": "WHITE"
+                }
+            },
+            {
+                "playerColor": "WHITE",
+                "from": "B1",
+                "to": "D2"
+            },
+            {
+                "playerColor": "BLACK",
+                "from": "B3",
+                "to": "D1",
+                "captured": {
+                    "type": "Q",
+                    "color": "WHITE"
+                }
+            },
+            {
+                "playerColor": "WHITE",
+                "from": "D4",
+                "to": "F6"
+            },
+            {
+                "playerColor": "BLACK",
+                "from": "D1",
+                "to": "G4"
+            },
+            {
+                "playerColor": "WHITE",
+                "from": "C1",
+                "to": "B3"
+            },
+            {
+                "playerColor": "BLACK",
+                "from": "G7",
+                "to": "F6",
+                "captured": {
+                    "type": "B",
+                    "color": "WHITE"
+                }
+            },
+            {
+                "playerColor": "WHITE",
+                "from": "D2",
+                "to": "E4",
+                "captured": {
+                    "type": "P",
+                    "color": "BLACK"
+                }
+            },
+            {
+                "playerColor": "BLACK",
+                "from": "F5",
+                "to": "E4",
+                "captured": {
+                    "type": "N",
+                    "color": "WHITE"
+                }
+            },
+            {
+                "playerColor": "WHITE",
+                "from": "G2",
+                "to": "G3"
+            },
+            {
+                "playerColor": "BLACK",
+                "from": "D8",
+                "to": "D1"
+            },
+            {
+                "playerColor": "WHITE",
+                "from": "E1",
+                "to": "F2"
+            }
+        ]
+    },
+    {
+        "id": 21,
+        "currentPlayerColor": "WHITE",
+        "players": [
+            {
+                "email": "c@g.com",
+                "color": "WHITE",
+                "name": "alabalaportocala"
+            },
+            {
+                "email": "computer",
+                "color": "BLACK",
+                "name": "computer"
+            }
+        ],
+        "board": [
+            {
+                "type": "R",
+                "color": "WHITE",
+                "position": "A1"
+            },
+            {
+                "type": "N",
+                "color": "WHITE",
+                "position": "B1"
+            },
+            {
+                "type": "B",
+                "color": "WHITE",
+                "position": "C1"
+            },
+            {
+                "type": "K",
+                "color": "WHITE",
+                "position": "E1"
+            },
+            {
+                "type": "B",
+                "color": "WHITE",
+                "position": "F1"
+            },
+            {
+                "type": "N",
+                "color": "WHITE",
+                "position": "G1"
+            },
+            {
+                "type": "R",
+                "color": "WHITE",
+                "position": "H1"
+            },
+            {
+                "type": "P",
+                "color": "WHITE",
+                "position": "A2"
+            },
+            {
+                "type": "P",
+                "color": "WHITE",
+                "position": "B2"
+            },
+            {
+                "type": "P",
+                "color": "WHITE",
+                "position": "F2"
+            },
+            {
+                "type": "P",
+                "color": "WHITE",
+                "position": "H2"
+            },
+            {
+                "type": "P",
+                "color": "BLACK",
+                "position": "B3"
+            },
+            {
+                "type": "P",
+                "color": "BLACK",
+                "position": "H3"
+            },
+            {
+                "type": "P",
+                "color": "WHITE",
+                "position": "C4"
+            },
+            {
+                "type": "P",
+                "color": "WHITE",
+                "position": "D4"
+            },
+            {
+                "type": "P",
+                "color": "BLACK",
+                "position": "A5"
+            },
+            {
+                "type": "P",
+                "color": "BLACK",
+                "position": "C5"
+            },
+            {
+                "type": "N",
+                "color": "WHITE",
+                "position": "C6"
+            },
+            {
+                "type": "Q",
+                "color": "WHITE",
+                "position": "D6"
+            },
+            {
+                "type": "N",
+                "color": "BLACK",
+                "position": "F6"
+            },
+            {
+                "type": "K",
+                "color": "BLACK",
+                "position": "F7"
+            },
+            {
+                "type": "R",
+                "color": "BLACK",
+                "position": "H7"
+            }
+        ],
+        "moves": [
+            {
+                "playerColor": "WHITE",
+                "from": "E2",
+                "to": "E4"
+            },
+            {
+                "playerColor": "BLACK",
+                "from": "F7",
+                "to": "F6"
+            },
+            {
+                "playerColor": "WHITE",
+                "from": "C2",
+                "to": "C4"
+            },
+            {
+                "playerColor": "BLACK",
+                "from": "H7",
+                "to": "H6"
+            },
+            {
+                "playerColor": "WHITE",
+                "from": "E4",
+                "to": "E5"
+            },
+            {
+                "playerColor": "BLACK",
+                "from": "B8",
+                "to": "A6"
+            },
+            {
+                "playerColor": "WHITE",
+                "from": "G2",
+                "to": "G4"
+            },
+            {
+                "playerColor": "BLACK",
+                "from": "D7",
+                "to": "D6"
+            },
+            {
+                "playerColor": "WHITE",
+                "from": "E5",
+                "to": "F6",
+                "captured": {
+                    "type": "P",
+                    "color": "BLACK"
+                }
+            },
+            {
+                "playerColor": "BLACK",
+                "from": "D8",
+                "to": "D7"
+            },
+            {
+                "playerColor": "WHITE",
+                "from": "F6",
+                "to": "G7",
+                "captured": {
+                    "type": "P",
+                    "color": "BLACK"
+                }
+            },
+            {
+                "playerColor": "BLACK",
+                "from": "H8",
+                "to": "H7"
+            },
+            {
+                "playerColor": "WHITE",
+                "from": "G7",
+                "to": "F8",
+                "captured": {
+                    "type": "B",
+                    "color": "BLACK"
+                }
+            },
+            {
+                "playerColor": "BLACK",
+                "from": "H6",
+                "to": "H5"
+            },
+            {
+                "playerColor": "WHITE",
+                "from": "F8",
+                "to": "D7",
+                "captured": {
+                    "type": "Q",
+                    "color": "BLACK"
+                }
+            },
+            {
+                "playerColor": "BLACK",
+                "from": "G8",
+                "to": "H6"
+            },
+            {
+                "playerColor": "WHITE",
+                "from": "D7",
+                "to": "B6"
+            },
+            {
+                "playerColor": "BLACK",
+                "from": "C7",
+                "to": "C5"
+            },
+            {
+                "playerColor": "WHITE",
+                "from": "B6",
+                "to": "A8",
+                "captured": {
+                    "type": "R",
+                    "color": "BLACK"
+                }
+            },
+            {
+                "playerColor": "BLACK",
+                "from": "B7",
+                "to": "B5"
+            },
+            {
+                "playerColor": "WHITE",
+                "from": "A8",
+                "to": "C7"
+            },
+            {
+                "playerColor": "BLACK",
+                "from": "E8",
+                "to": "F7"
+            },
+            {
+                "playerColor": "WHITE",
+                "from": "C7",
+                "to": "A6",
+                "captured": {
+                    "type": "N",
+                    "color": "BLACK"
+                }
+            },
+            {
+                "playerColor": "BLACK",
+                "from": "H5",
+                "to": "H4"
+            },
+            {
+                "playerColor": "WHITE",
+                "from": "D1",
+                "to": "F3"
+            },
+            {
+                "playerColor": "BLACK",
+                "from": "F7",
+                "to": "E8"
+            },
+            {
+                "playerColor": "WHITE",
+                "from": "F3",
+                "to": "D5"
+            },
+            {
+                "playerColor": "BLACK",
+                "from": "H4",
+                "to": "H3"
+            },
+            {
+                "playerColor": "WHITE",
+                "from": "A6",
+                "to": "B8"
+            },
+            {
+                "playerColor": "BLACK",
+                "from": "B5",
+                "to": "B4"
+            },
+            {
+                "playerColor": "WHITE",
+                "from": "D5",
+                "to": "B7"
+            },
+            {
+                "playerColor": "BLACK",
+                "from": "H6",
+                "to": "G4",
+                "captured": {
+                    "type": "P",
+                    "color": "WHITE"
+                }
+            },
+            {
+                "playerColor": "WHITE",
+                "from": "B7",
+                "to": "C8",
+                "captured": {
+                    "type": "B",
+                    "color": "BLACK"
+                }
+            },
+            {
+                "playerColor": "BLACK",
+                "from": "E8",
+                "to": "F7"
+            },
+            {
+                "playerColor": "WHITE",
+                "from": "C8",
+                "to": "D7"
+            },
+            {
+                "playerColor": "BLACK",
+                "from": "B4",
+                "to": "B3"
+            },
+            {
+                "playerColor": "WHITE",
+                "from": "B8",
+                "to": "C6"
+            },
+            {
+                "playerColor": "BLACK",
+                "from": "A7",
+                "to": "A5"
+            },
+            {
+                "playerColor": "WHITE",
+                "from": "D7",
+                "to": "E7",
+                "captured": {
+                    "type": "P",
+                    "color": "BLACK"
+                }
+            },
+            {
+                "playerColor": "BLACK",
+                "from": "F7",
+                "to": "G6"
+            },
+            {
+                "playerColor": "WHITE",
+                "from": "E7",
+                "to": "D6",
+                "captured": {
+                    "type": "P",
+                    "color": "BLACK"
+                }
+            },
+            {
+                "playerColor": "BLACK",
+                "from": "G4",
+                "to": "F6"
+            },
+            {
+                "playerColor": "WHITE",
+                "from": "D2",
+                "to": "D4"
+            },
+            {
+                "playerColor": "BLACK",
+                "from": "G6",
+                "to": "F7"
+            },
+            {
+                "playerColor": "WHITE",
+                "from": "D6",
+                "to": "E7"
+            },
+            {
+                "playerColor": "BLACK",
+                "from": "F7",
+                "to": "G6"
+            },
+            {
+                "playerColor": "WHITE",
+                "from": "E7",
+                "to": "D6"
+            },
+            {
+                "playerColor": "BLACK",
+                "from": "G6",
+                "to": "F7"
+            }
+        ]
+    },
+    {
+        "id": 22,
+        "currentPlayerColor": "WHITE",
+        "players": [
+            {
+                "email": "cata@gmail.com",
+                "color": "WHITE",
+                "name": "cata"
+            },
+            {
+                "email": "computer",
+                "color": "BLACK",
+                "name": "computer"
+            }
+        ],
+        "board": [
+            {
+                "type": "R",
+                "color": "WHITE",
+                "position": "A1"
+            },
+            {
+                "type": "N",
+                "color": "WHITE",
+                "position": "B1"
+            },
+            {
+                "type": "B",
+                "color": "WHITE",
+                "position": "C1"
+            },
+            {
+                "type": "K",
+                "color": "WHITE",
+                "position": "E1"
+            },
+            {
+                "type": "B",
+                "color": "WHITE",
+                "position": "F1"
+            },
+            {
+                "type": "R",
+                "color": "WHITE",
+                "position": "H1"
+            },
+            {
+                "type": "P",
+                "color": "WHITE",
+                "position": "A2"
+            },
+            {
+                "type": "P",
+                "color": "WHITE",
+                "position": "B2"
+            },
+            {
+                "type": "P",
+                "color": "WHITE",
+                "position": "D2"
+            },
+            {
+                "type": "P",
+                "color": "WHITE",
+                "position": "F2"
+            },
+            {
+                "type": "P",
+                "color": "WHITE",
+                "position": "G2"
+            },
+            {
+                "type": "P",
+                "color": "WHITE",
+                "position": "H2"
+            },
+            {
+                "type": "P",
+                "color": "BLACK",
+                "position": "B4"
+            },
+            {
+                "type": "P",
+                "color": "WHITE",
+                "position": "C4"
+            },
+            {
+                "type": "P",
+                "color": "WHITE",
+                "position": "E4"
+            },
+            {
+                "type": "P",
+                "color": "BLACK",
+                "position": "D5"
+            },
+            {
+                "type": "N",
+                "color": "WHITE",
+                "position": "E5"
+            },
+            {
+                "type": "Q",
+                "color": "WHITE",
+                "position": "H5"
+            },
+            {
+                "type": "P",
+                "color": "BLACK",
+                "position": "A7"
+            },
+            {
+                "type": "P",
+                "color": "BLACK",
+                "position": "C7"
+            },
+            {
+                "type": "K",
+                "color": "BLACK",
+                "position": "E7"
+            },
+            {
+                "type": "P",
+                "color": "BLACK",
+                "position": "F7"
+            },
+            {
+                "type": "P",
+                "color": "BLACK",
+                "position": "G7"
+            },
+            {
+                "type": "P",
+                "color": "BLACK",
+                "position": "H7"
+            },
+            {
+                "type": "R",
+                "color": "BLACK",
+                "position": "A8"
+            },
+            {
+                "type": "N",
+                "color": "BLACK",
+                "position": "B8"
+            },
+            {
+                "type": "B",
+                "color": "BLACK",
+                "position": "C8"
+            },
+            {
+                "type": "Q",
+                "color": "BLACK",
+                "position": "D8"
+            },
+            {
+                "type": "B",
+                "color": "BLACK",
+                "position": "F8"
+            },
+            {
+                "type": "N",
+                "color": "BLACK",
+                "position": "G8"
+            },
+            {
+                "type": "R",
+                "color": "BLACK",
+                "position": "H8"
+            }
+        ],
+        "moves": [
+            {
+                "playerColor": "WHITE",
+                "from": "E2",
+                "to": "E4"
+            },
+            {
+                "playerColor": "BLACK",
+                "from": "E7",
+                "to": "E5"
+            },
+            {
+                "playerColor": "WHITE",
+                "from": "D1",
+                "to": "H5"
+            },
+            {
+                "playerColor": "BLACK",
+                "from": "E8",
+                "to": "E7"
+            },
+            {
+                "playerColor": "WHITE",
+                "from": "G1",
+                "to": "F3"
+            },
+            {
+                "playerColor": "BLACK",
+                "from": "B7",
+                "to": "B5"
+            },
+            {
+                "playerColor": "WHITE",
+                "from": "C2",
+                "to": "C4"
+            },
+            {
+                "playerColor": "BLACK",
+                "from": "B5",
+                "to": "B4"
+            },
+            {
+                "playerColor": "WHITE",
+                "from": "F3",
+                "to": "E5",
+                "captured": {
+                    "type": "P",
+                    "color": "BLACK"
+                }
+            },
+            {
+                "playerColor": "BLACK",
+                "from": "D7",
+                "to": "D5"
+            }
+        ]
+    }
+]
